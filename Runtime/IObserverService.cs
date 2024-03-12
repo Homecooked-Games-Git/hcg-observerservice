@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HCGames.ObserverSystem{
+namespace HCG.ObserverService{
     public interface IObserverService{
         void Subscribe(string eventId, Action handler);
         void Unsubscribe(string eventId, Action handler);

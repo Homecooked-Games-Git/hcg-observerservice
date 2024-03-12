@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using HCGames.Extensions;
 
-namespace HCGames.ObserverSystem{
+namespace HCG.ObserverService{
 
     public class ObserverService : Singleton<ObserverService> ,IObserverService{
         private readonly Dictionary<string, Delegate> _observers = new();

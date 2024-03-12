@@ -1,4 +1,4 @@
-namespace HCGames.ObserverSystem
+namespace HCG.ObserverService
 { 
     public static class ObserverEvent
     {
