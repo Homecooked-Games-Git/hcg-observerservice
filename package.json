@@ -1,6 +1,6 @@
 {
   "name": "com.hcg.observerservice",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "Observer Service",
   "description": "Generic Observer system implementation",
   "unity": "2019.1",
