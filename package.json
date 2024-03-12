@@ -1,12 +1,15 @@
 {
   "name": "com.hcg.observerservice",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "Observer Service",
   "description": "Generic Observer system implementation",
   "unity": "2019.1",
   "dependencies": {
     "com.hcg.extensions" : "1.0.0"
  },
- "keywords": [
+  "author": {
+    "name" : "Homecooked Games"
+  },
+  "keywords": [
   ]
 }
