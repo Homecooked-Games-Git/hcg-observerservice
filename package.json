@@ -5,8 +5,6 @@
   "description": "Generic Observer system implementation",
   "unity": "2019.1",
   "dependencies": {
-    "com.hcg.extensions" : "https://github.com/Homecooked-Games-Git/hcg-extensions#v1.0.0"
- },
- "keywords": [
-  ]
+    "com.hcg.extensions" : "git@github.com:Homecooked-Games-Git/hcg-extensions.git#v1.0.0"
+ }
 }
