@@ -1,7 +1,9 @@
 {
     "name": "ObserverServiceRuntime",
     "rootNamespace": "HCG.ObserverService",
-    "references": [],
+    "references": [
+        "GUID:32ba15ef60d63dc40819c31ba36515d4"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
